@@ -1,0 +1,5 @@
+node_modules/
+.sites-runtime/
+game/*.png
+game/artifacts/
+*.log

@@ -1,0 +1,126 @@
+{
+  "engineVersion": "0.1",
+  "runsPerProfile": 500,
+  "seedMethod": "Samme 500 seeds og faste modstandere pr. challenge; inverse Poisson-CDF bruger én tilfældig værdi pr. hold pr. kamp.",
+  "profiles": [
+    {
+      "name": "Start 4-3-3",
+      "challenge": "open-league",
+      "ratings": {
+        "atk": 72.49074074074073,
+        "mid": 70.08994708994709,
+        "def": 71.4113475177305,
+        "ovr": 75.36363636363636
+      },
+      "points": 49.036,
+      "rank": 12.048,
+      "gf": 45.484,
+      "ga": 49.92,
+      "titles": 0.014
+    },
+    {
+      "name": "Samme 11 i 4-4-2",
+      "challenge": "open-league",
+      "ratings": {
+        "atk": 70.87068965517241,
+        "mid": 68.70804195804197,
+        "def": 69.58208955223883,
+        "ovr": 75.36363636363636
+      },
+      "points": 41.752,
+      "rank": 15.816,
+      "gf": 40.738,
+      "ga": 56.068,
+      "titles": 0.002
+    },
+    {
+      "name": "Start 4-2-3-1",
+      "challenge": "open-league",
+      "ratings": {
+        "atk": 71.7196261682243,
+        "mid": 68.30442804428046,
+        "def": 73.49645390070921,
+        "ovr": 74.72727272727273
+      },
+      "points": 47.88,
+      "rank": 12.742,
+      "gf": 41.916,
+      "ga": 47.558,
+      "titles": 0.006
+    },
+    {
+      "name": "Foreslået startkollektion",
+      "challenge": "open-league",
+      "ratings": {
+        "atk": 72.24074074074073,
+        "mid": 71.55908289241623,
+        "def": 72.78014184397163,
+        "ovr": 76.72727272727273
+      },
+      "points": 53.012,
+      "rank": 9.65,
+      "gf": 46.728,
+      "ga": 45.414,
+      "titles": 0.032
+    },
+    {
+      "name": "Alle kort 4-3-3",
+      "challenge": "open-league",
+      "ratings": {
+        "atk": 85.25,
+        "mid": 79.99647266313934,
+        "def": 83.54609929078016,
+        "ovr": 87.72727272727273
+      },
+      "points": 96.884,
+      "rank": 1,
+      "gf": 103.628,
+      "ga": 22.548,
+      "titles": 1
+    },
+    {
+      "name": "Garanteret Italy-hold",
+      "challenge": "italy-six",
+      "ratings": {
+        "atk": 74.47222222222221,
+        "mid": 74.22222222222221,
+        "def": 75.18439716312056,
+        "ovr": 78.63636363636364
+      },
+      "points": 43.362,
+      "rank": 14.306,
+      "gf": 41.018,
+      "ga": 54.082,
+      "titles": 0
+    },
+    {
+      "name": "Alle kort Italy",
+      "challenge": "italy-six",
+      "ratings": {
+        "atk": 84.53703703703704,
+        "mid": 79.20282186948855,
+        "def": 83.66666666666667,
+        "ovr": 87.18181818181819
+      },
+      "points": 78.492,
+      "rank": 1.578,
+      "gf": 73.198,
+      "ga": 32.416,
+      "titles": 0.692
+    }
+  ],
+  "sensitivity": [
+    {
+      "stat": "atk",
+      "expectedGoalDifference": 0.576305930110512
+    },
+    {
+      "stat": "mid",
+      "expectedGoalDifference": 0.5449986280883274
+    },
+    {
+      "stat": "def",
+      "expectedGoalDifference": 0.45914493423922376
+    }
+  ]
+}

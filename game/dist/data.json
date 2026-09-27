@@ -1,0 +1,1414 @@
+{
+  "schemaVersion": 1,
+  "status": "proposed-prototype-content",
+  "language": "da",
+  "ratingsDisclaimer": "Egne foreløbige spildesignværdier, ikke officielle ratings eller statistiske estimater. Positionslisten er en forenklet spilmapping.",
+  "sources": [
+    {
+      "id": "ajax-2012",
+      "title": "DFB: Ajax-truppen 2012/13",
+      "url": "https://datencenter.dfb.de/en/competitions/europa-league/seasons/2012-2013/teams/ajax-amsterdam?datacenter_name=data-center",
+      "checkedAt": "2026-09-27",
+      "scope": "Historisk klub-/sæsontilhørsforhold; ikke ratings eller alle sekundærpositioner."
+    },
+    {
+      "id": "basel-2012",
+      "title": "UEFA: Tottenham–Basel, 4. april 2013",
+      "url": "https://es.uefa.com/uefaeuropaleague/news/0208-0e8424f1c2d1-aa843e95c524-1000--el-basilea-muestra-sus-credenciales/",
+      "checkedAt": "2026-09-27",
+      "scope": "Historisk klub-/sæsontilhørsforhold; ikke ratings eller alle sekundærpositioner."
+    },
+    {
+      "id": "southampton-2013",
+      "title": "Southampton 2013/14: sæsonens spilleroversigt",
+      "url": "https://en.wikipedia.org/wiki/2013%E2%80%9314_Southampton_F.C._season#Squad_statistics",
+      "checkedAt": "2026-09-27",
+      "scope": "Historisk klub-/sæsontilhørsforhold; ikke ratings eller alle sekundærpositioner."
+    },
+    {
+      "id": "roma-2015",
+      "title": "Lega Serie A: Roma-truppen, februar 2016",
+      "url": "https://img.legaseriea.it/vimages/632c28cf/2015-16_A_UNICO_UNI_26_ROMPAL.pdf",
+      "checkedAt": "2026-09-27",
+      "scope": "Historisk klub-/sæsontilhørsforhold; ikke ratings eller alle sekundærpositioner."
+    },
+    {
+      "id": "juventus-2016",
+      "title": "DFB: Juventus-truppen 2016/17",
+      "url": "https://datencenter.dfb.de/competitions/champions-league/seasons/2016-2017/teams/juventus-turin",
+      "checkedAt": "2026-09-27",
+      "scope": "Historisk klub-/sæsontilhørsforhold; ikke ratings eller alle sekundærpositioner."
+    },
+    {
+      "id": "liverpool-2018",
+      "title": "Liverpool FC: startopstilling, 22. september 2018",
+      "url": "https://www.liverpoolfc.com/news/first-team/317732-team-news-liverpool-southampton",
+      "checkedAt": "2026-09-27",
+      "scope": "Historisk klub-/sæsontilhørsforhold; ikke ratings eller alle sekundærpositioner."
+    }
+  ],
+  "cards": [
+    {
+      "id": "cillessen-ajax-2012",
+      "playerId": "cillessen",
+      "name": "Jasper Cillessen",
+      "nationality": "NED",
+      "club": "Ajax",
+      "clubCountry": "NED",
+      "league": "Eredivisie",
+      "season": "2012/13",
+      "positions": [
+        "GK"
+      ],
+      "ovr": 71,
+      "atk": 8,
+      "mid": 48,
+      "def": 73,
+      "designPurpose": "Ung målmand med plads til opgradering",
+      "sourceId": "ajax-2012"
+    },
+    {
+      "id": "alderweireld-ajax-2012",
+      "playerId": "alderweireld",
+      "name": "Toby Alderweireld",
+      "nationality": "BEL",
+      "club": "Ajax",
+      "clubCountry": "NED",
+      "league": "Eredivisie",
+      "season": "2012/13",
+      "positions": [
+        "CB",
+        "RB"
+      ],
+      "ovr": 78,
+      "atk": 39,
+      "mid": 64,
+      "def": 81,
+      "designPurpose": "Forsvarsspecialist med back-dækning",
+      "sourceId": "ajax-2012"
+    },
+    {
+      "id": "blind-ajax-2012",
+      "playerId": "blind",
+      "name": "Daley Blind",
+      "nationality": "NED",
+      "club": "Ajax",
+      "clubCountry": "NED",
+      "league": "Eredivisie",
+      "season": "2012/13",
+      "positions": [
+        "LB",
+        "DM"
+      ],
+      "ovr": 75,
+      "atk": 49,
+      "mid": 76,
+      "def": 73,
+      "designPurpose": "Kontrol fra venstresiden",
+      "sourceId": "ajax-2012"
+    },
+    {
+      "id": "eriksen-ajax-2012",
+      "playerId": "eriksen",
+      "name": "Christian Eriksen",
+      "nationality": "DEN",
+      "club": "Ajax",
+      "clubCountry": "NED",
+      "league": "Eredivisie",
+      "season": "2012/13",
+      "positions": [
+        "AM",
+        "CM"
+      ],
+      "ovr": 80,
+      "atk": 77,
+      "mid": 85,
+      "def": 39,
+      "designPurpose": "Kreativitet med en defensiv pris",
+      "sourceId": "ajax-2012"
+    },
+    {
+      "id": "schone-ajax-2012",
+      "playerId": "schone",
+      "name": "Lasse Schøne",
+      "nationality": "DEN",
+      "club": "Ajax",
+      "clubCountry": "NED",
+      "league": "Eredivisie",
+      "season": "2012/13",
+      "positions": [
+        "CM",
+        "RW"
+      ],
+      "ovr": 76,
+      "atk": 73,
+      "mid": 79,
+      "def": 56,
+      "designPurpose": "Fleksibel forbindelsesspiller",
+      "sourceId": "ajax-2012"
+    },
+    {
+      "id": "de-jong-ajax-2012",
+      "playerId": "de-jong",
+      "name": "Siem de Jong",
+      "nationality": "NED",
+      "club": "Ajax",
+      "clubCountry": "NED",
+      "league": "Eredivisie",
+      "season": "2012/13",
+      "positions": [
+        "AM",
+        "CM",
+        "ST"
+      ],
+      "ovr": 78,
+      "atk": 80,
+      "mid": 77,
+      "def": 48,
+      "designPurpose": "Ekstra angriber eller offensiv midtbane",
+      "sourceId": "ajax-2012"
+    },
+    {
+      "id": "fischer-ajax-2012",
+      "playerId": "fischer",
+      "name": "Viktor Fischer",
+      "nationality": "DEN",
+      "club": "Ajax",
+      "clubCountry": "NED",
+      "league": "Eredivisie",
+      "season": "2012/13",
+      "positions": [
+        "LW"
+      ],
+      "ovr": 73,
+      "atk": 77,
+      "mid": 66,
+      "def": 27,
+      "designPurpose": "Genkendeligt dansk talent",
+      "sourceId": "ajax-2012"
+    },
+    {
+      "id": "veltman-ajax-2012",
+      "playerId": "veltman",
+      "name": "Joël Veltman",
+      "nationality": "NED",
+      "club": "Ajax",
+      "clubCountry": "NED",
+      "league": "Eredivisie",
+      "season": "2012/13",
+      "positions": [
+        "CB"
+      ],
+      "ovr": 69,
+      "atk": 29,
+      "mid": 54,
+      "def": 72,
+      "designPurpose": "Tidlig karriereversion",
+      "sourceId": "ajax-2012"
+    },
+    {
+      "id": "sommer-basel-2012",
+      "playerId": "sommer",
+      "name": "Yann Sommer",
+      "nationality": "SUI",
+      "club": "FC Basel",
+      "clubCountry": "SUI",
+      "league": "Swiss Super League",
+      "season": "2012/13",
+      "positions": [
+        "GK"
+      ],
+      "ovr": 77,
+      "atk": 8,
+      "mid": 54,
+      "def": 79,
+      "designPurpose": "Målmandsopgradering",
+      "sourceId": "basel-2012"
+    },
+    {
+      "id": "salah-basel-2012",
+      "playerId": "salah",
+      "name": "Mohamed Salah",
+      "nationality": "EGY",
+      "club": "FC Basel",
+      "clubCountry": "SUI",
+      "league": "Swiss Super League",
+      "season": "2012/13",
+      "positions": [
+        "RW"
+      ],
+      "ovr": 74,
+      "atk": 80,
+      "mid": 65,
+      "def": 28,
+      "designPurpose": "Første version af puljens samlestjerne",
+      "sourceId": "basel-2012"
+    },
+    {
+      "id": "elneny-basel-2012",
+      "playerId": "elneny",
+      "name": "Mohamed Elneny",
+      "nationality": "EGY",
+      "club": "FC Basel",
+      "clubCountry": "SUI",
+      "league": "Swiss Super League",
+      "season": "2012/13",
+      "positions": [
+        "DM",
+        "CM"
+      ],
+      "ovr": 69,
+      "atk": 42,
+      "mid": 70,
+      "def": 70,
+      "designPurpose": "Billig balance i en defensiv midtbane",
+      "sourceId": "basel-2012"
+    },
+    {
+      "id": "frei-basel-2012",
+      "playerId": "frei",
+      "name": "Fabian Frei",
+      "nationality": "SUI",
+      "club": "FC Basel",
+      "clubCountry": "SUI",
+      "league": "Swiss Super League",
+      "season": "2012/13",
+      "positions": [
+        "CM",
+        "DM"
+      ],
+      "ovr": 74,
+      "atk": 59,
+      "mid": 76,
+      "def": 68,
+      "designPurpose": "Kontrol og defensiv støtte",
+      "sourceId": "basel-2012"
+    },
+    {
+      "id": "stocker-basel-2012",
+      "playerId": "stocker",
+      "name": "Valentin Stocker",
+      "nationality": "SUI",
+      "club": "FC Basel",
+      "clubCountry": "SUI",
+      "league": "Swiss Super League",
+      "season": "2012/13",
+      "positions": [
+        "LW",
+        "AM"
+      ],
+      "ovr": 77,
+      "atk": 78,
+      "mid": 75,
+      "def": 44,
+      "designPurpose": "Mere kontrol på venstrekanten",
+      "sourceId": "basel-2012"
+    },
+    {
+      "id": "schar-basel-2012",
+      "playerId": "schar",
+      "name": "Fabian Schär",
+      "nationality": "SUI",
+      "club": "FC Basel",
+      "clubCountry": "SUI",
+      "league": "Swiss Super League",
+      "season": "2012/13",
+      "positions": [
+        "CB"
+      ],
+      "ovr": 73,
+      "atk": 40,
+      "mid": 64,
+      "def": 76,
+      "designPurpose": "Boldspillende forsvarsopgradering",
+      "sourceId": "basel-2012"
+    },
+    {
+      "id": "boruc-southampton-2013",
+      "playerId": "boruc",
+      "name": "Artur Boruc",
+      "nationality": "POL",
+      "club": "Southampton",
+      "clubCountry": "ENG",
+      "league": "Premier League",
+      "season": "2013/14",
+      "positions": [
+        "GK"
+      ],
+      "ovr": 77,
+      "atk": 6,
+      "mid": 37,
+      "def": 80,
+      "designPurpose": "Stærkere redninger, svagere distribution",
+      "sourceId": "southampton-2013"
+    },
+    {
+      "id": "fonte-southampton-2013",
+      "playerId": "fonte",
+      "name": "José Fonte",
+      "nationality": "POR",
+      "club": "Southampton",
+      "clubCountry": "ENG",
+      "league": "Premier League",
+      "season": "2013/14",
+      "positions": [
+        "CB"
+      ],
+      "ovr": 76,
+      "atk": 32,
+      "mid": 53,
+      "def": 80,
+      "designPurpose": "Defensiv stabilitet",
+      "sourceId": "southampton-2013"
+    },
+    {
+      "id": "lovren-southampton-2013",
+      "playerId": "lovren",
+      "name": "Dejan Lovren",
+      "nationality": "CRO",
+      "club": "Southampton",
+      "clubCountry": "ENG",
+      "league": "Premier League",
+      "season": "2013/14",
+      "positions": [
+        "CB"
+      ],
+      "ovr": 78,
+      "atk": 37,
+      "mid": 59,
+      "def": 82,
+      "designPurpose": "Direkte forsvarsforstærkning",
+      "sourceId": "southampton-2013"
+    },
+    {
+      "id": "shaw-southampton-2013",
+      "playerId": "shaw",
+      "name": "Luke Shaw",
+      "nationality": "ENG",
+      "club": "Southampton",
+      "clubCountry": "ENG",
+      "league": "Premier League",
+      "season": "2013/14",
+      "positions": [
+        "LB"
+      ],
+      "ovr": 75,
+      "atk": 58,
+      "mid": 64,
+      "def": 77,
+      "designPurpose": "Defensivt alternativ til Blind",
+      "sourceId": "southampton-2013"
+    },
+    {
+      "id": "clyne-southampton-2013",
+      "playerId": "clyne",
+      "name": "Nathaniel Clyne",
+      "nationality": "ENG",
+      "club": "Southampton",
+      "clubCountry": "ENG",
+      "league": "Premier League",
+      "season": "2013/14",
+      "positions": [
+        "RB"
+      ],
+      "ovr": 75,
+      "atk": 55,
+      "mid": 62,
+      "def": 78,
+      "designPurpose": "Defensivt alternativ til Florenzi",
+      "sourceId": "southampton-2013"
+    },
+    {
+      "id": "schneiderlin-southampton-2013",
+      "playerId": "schneiderlin",
+      "name": "Morgan Schneiderlin",
+      "nationality": "FRA",
+      "club": "Southampton",
+      "clubCountry": "ENG",
+      "league": "Premier League",
+      "season": "2013/14",
+      "positions": [
+        "DM",
+        "CM"
+      ],
+      "ovr": 79,
+      "atk": 52,
+      "mid": 80,
+      "def": 82,
+      "designPurpose": "Balance uden stjernenavn",
+      "sourceId": "southampton-2013"
+    },
+    {
+      "id": "wanyama-southampton-2013",
+      "playerId": "wanyama",
+      "name": "Victor Wanyama",
+      "nationality": "KEN",
+      "club": "Southampton",
+      "clubCountry": "ENG",
+      "league": "Premier League",
+      "season": "2013/14",
+      "positions": [
+        "DM",
+        "CM"
+      ],
+      "ovr": 75,
+      "atk": 42,
+      "mid": 68,
+      "def": 83,
+      "designPurpose": "Høj DEF trods moderat OVR",
+      "sourceId": "southampton-2013"
+    },
+    {
+      "id": "lambert-southampton-2013",
+      "playerId": "lambert",
+      "name": "Rickie Lambert",
+      "nationality": "ENG",
+      "club": "Southampton",
+      "clubCountry": "ENG",
+      "league": "Premier League",
+      "season": "2013/14",
+      "positions": [
+        "ST"
+      ],
+      "ovr": 78,
+      "atk": 82,
+      "mid": 70,
+      "def": 30,
+      "designPurpose": "Solid afslutter i startholdet",
+      "sourceId": "southampton-2013"
+    },
+    {
+      "id": "lallana-southampton-2013",
+      "playerId": "lallana",
+      "name": "Adam Lallana",
+      "nationality": "ENG",
+      "club": "Southampton",
+      "clubCountry": "ENG",
+      "league": "Premier League",
+      "season": "2013/14",
+      "positions": [
+        "AM",
+        "CM",
+        "LW"
+      ],
+      "ovr": 80,
+      "atk": 78,
+      "mid": 83,
+      "def": 51,
+      "designPurpose": "Kreativ fleksibilitet",
+      "sourceId": "southampton-2013"
+    },
+    {
+      "id": "rodriguez-southampton-2013",
+      "playerId": "rodriguez",
+      "name": "Jay Rodriguez",
+      "nationality": "ENG",
+      "club": "Southampton",
+      "clubCountry": "ENG",
+      "league": "Premier League",
+      "season": "2013/14",
+      "positions": [
+        "LW",
+        "ST"
+      ],
+      "ovr": 79,
+      "atk": 84,
+      "mid": 65,
+      "def": 36,
+      "designPurpose": "Valg mellem kant og anden angriber",
+      "sourceId": "southampton-2013"
+    },
+    {
+      "id": "szczesny-roma-2015",
+      "playerId": "szczesny",
+      "name": "Wojciech Szczęsny",
+      "nationality": "POL",
+      "club": "AS Roma",
+      "clubCountry": "ITA",
+      "league": "Serie A",
+      "season": "2015/16",
+      "positions": [
+        "GK"
+      ],
+      "ovr": 81,
+      "atk": 8,
+      "mid": 47,
+      "def": 83,
+      "designPurpose": "Garanteret italiensk klubmålmand",
+      "sourceId": "roma-2015"
+    },
+    {
+      "id": "florenzi-roma-2015",
+      "playerId": "florenzi",
+      "name": "Alessandro Florenzi",
+      "nationality": "ITA",
+      "club": "AS Roma",
+      "clubCountry": "ITA",
+      "league": "Serie A",
+      "season": "2015/16",
+      "positions": [
+        "RB",
+        "CM",
+        "RW"
+      ],
+      "ovr": 80,
+      "atk": 72,
+      "mid": 77,
+      "def": 75,
+      "designPurpose": "Offensiv back og fleksibel specialist",
+      "sourceId": "roma-2015"
+    },
+    {
+      "id": "manolas-roma-2015",
+      "playerId": "manolas",
+      "name": "Kostas Manolas",
+      "nationality": "GRE",
+      "club": "AS Roma",
+      "clubCountry": "ITA",
+      "league": "Serie A",
+      "season": "2015/16",
+      "positions": [
+        "CB"
+      ],
+      "ovr": 82,
+      "atk": 32,
+      "mid": 51,
+      "def": 87,
+      "designPurpose": "Forsvar frem for boldkontrol",
+      "sourceId": "roma-2015"
+    },
+    {
+      "id": "rudiger-roma-2015",
+      "playerId": "rudiger",
+      "name": "Antonio Rüdiger",
+      "nationality": "GER",
+      "club": "AS Roma",
+      "clubCountry": "ITA",
+      "league": "Serie A",
+      "season": "2015/16",
+      "positions": [
+        "CB",
+        "RB"
+      ],
+      "ovr": 78,
+      "atk": 35,
+      "mid": 56,
+      "def": 82,
+      "designPurpose": "Alternativ i midterforsvaret og på back",
+      "sourceId": "roma-2015"
+    },
+    {
+      "id": "digne-roma-2015",
+      "playerId": "digne",
+      "name": "Lucas Digne",
+      "nationality": "FRA",
+      "club": "AS Roma",
+      "clubCountry": "ITA",
+      "league": "Serie A",
+      "season": "2015/16",
+      "positions": [
+        "LB"
+      ],
+      "ovr": 78,
+      "atk": 64,
+      "mid": 69,
+      "def": 77,
+      "designPurpose": "Tidlig adgang til Italy-holdet",
+      "sourceId": "roma-2015"
+    },
+    {
+      "id": "de-rossi-roma-2015",
+      "playerId": "de-rossi",
+      "name": "Daniele De Rossi",
+      "nationality": "ITA",
+      "club": "AS Roma",
+      "clubCountry": "ITA",
+      "league": "Serie A",
+      "season": "2015/16",
+      "positions": [
+        "DM",
+        "CM"
+      ],
+      "ovr": 83,
+      "atk": 54,
+      "mid": 80,
+      "def": 88,
+      "designPurpose": "Defensivt anker",
+      "sourceId": "roma-2015"
+    },
+    {
+      "id": "pjanic-roma-2015",
+      "playerId": "pjanic",
+      "name": "Miralem Pjanić",
+      "nationality": "BIH",
+      "club": "AS Roma",
+      "clubCountry": "ITA",
+      "league": "Serie A",
+      "season": "2015/16",
+      "positions": [
+        "CM",
+        "AM"
+      ],
+      "ovr": 84,
+      "atk": 76,
+      "mid": 90,
+      "def": 57,
+      "designPurpose": "Kreativt alternativ til De Rossi",
+      "sourceId": "roma-2015"
+    },
+    {
+      "id": "nainggolan-roma-2015",
+      "playerId": "nainggolan",
+      "name": "Radja Nainggolan",
+      "nationality": "BEL",
+      "club": "AS Roma",
+      "clubCountry": "ITA",
+      "league": "Serie A",
+      "season": "2015/16",
+      "positions": [
+        "CM",
+        "DM"
+      ],
+      "ovr": 84,
+      "atk": 77,
+      "mid": 82,
+      "def": 82,
+      "designPurpose": "Alsidig midtbane",
+      "sourceId": "roma-2015"
+    },
+    {
+      "id": "salah-roma-2015",
+      "playerId": "salah",
+      "name": "Mohamed Salah",
+      "nationality": "EGY",
+      "club": "AS Roma",
+      "clubCountry": "ITA",
+      "league": "Serie A",
+      "season": "2015/16",
+      "positions": [
+        "RW",
+        "LW"
+      ],
+      "ovr": 84,
+      "atk": 89,
+      "mid": 75,
+      "def": 33,
+      "designPurpose": "Italy-berettiget stjernekort",
+      "sourceId": "roma-2015"
+    },
+    {
+      "id": "dzeko-roma-2015",
+      "playerId": "dzeko",
+      "name": "Edin Džeko",
+      "nationality": "BIH",
+      "club": "AS Roma",
+      "clubCountry": "ITA",
+      "league": "Serie A",
+      "season": "2015/16",
+      "positions": [
+        "ST"
+      ],
+      "ovr": 80,
+      "atk": 83,
+      "mid": 67,
+      "def": 35,
+      "designPurpose": "Angriber med italiensk klubtag",
+      "sourceId": "roma-2015"
+    },
+    {
+      "id": "buffon-juventus-2016",
+      "playerId": "buffon",
+      "name": "Gianluigi Buffon",
+      "nationality": "ITA",
+      "club": "Juventus",
+      "clubCountry": "ITA",
+      "league": "Serie A",
+      "season": "2016/17",
+      "positions": [
+        "GK"
+      ],
+      "ovr": 90,
+      "atk": 7,
+      "mid": 49,
+      "def": 93,
+      "designPurpose": "Elitebelønning til målet",
+      "sourceId": "juventus-2016"
+    },
+    {
+      "id": "chiellini-juventus-2016",
+      "playerId": "chiellini",
+      "name": "Giorgio Chiellini",
+      "nationality": "ITA",
+      "club": "Juventus",
+      "clubCountry": "ITA",
+      "league": "Serie A",
+      "season": "2016/17",
+      "positions": [
+        "CB"
+      ],
+      "ovr": 89,
+      "atk": 35,
+      "mid": 56,
+      "def": 94,
+      "designPurpose": "Defensiv elitespecialist",
+      "sourceId": "juventus-2016"
+    },
+    {
+      "id": "bonucci-juventus-2016",
+      "playerId": "bonucci",
+      "name": "Leonardo Bonucci",
+      "nationality": "ITA",
+      "club": "Juventus",
+      "clubCountry": "ITA",
+      "league": "Serie A",
+      "season": "2016/17",
+      "positions": [
+        "CB"
+      ],
+      "ovr": 87,
+      "atk": 44,
+      "mid": 78,
+      "def": 88,
+      "designPurpose": "Kontrol fra midterforsvaret",
+      "sourceId": "juventus-2016"
+    },
+    {
+      "id": "alex-sandro-juventus-2016",
+      "playerId": "alex-sandro",
+      "name": "Alex Sandro",
+      "nationality": "BRA",
+      "club": "Juventus",
+      "clubCountry": "ITA",
+      "league": "Serie A",
+      "season": "2016/17",
+      "positions": [
+        "LB"
+      ],
+      "ovr": 85,
+      "atk": 73,
+      "mid": 76,
+      "def": 84,
+      "designPurpose": "Komplet venstreback",
+      "sourceId": "juventus-2016"
+    },
+    {
+      "id": "pjanic-juventus-2016",
+      "playerId": "pjanic",
+      "name": "Miralem Pjanić",
+      "nationality": "BIH",
+      "club": "Juventus",
+      "clubCountry": "ITA",
+      "league": "Serie A",
+      "season": "2016/17",
+      "positions": [
+        "CM",
+        "DM"
+      ],
+      "ovr": 86,
+      "atk": 74,
+      "mid": 92,
+      "def": 66,
+      "designPurpose": "Anden klubversion med dybere rolle",
+      "sourceId": "juventus-2016"
+    },
+    {
+      "id": "dybala-juventus-2016",
+      "playerId": "dybala",
+      "name": "Paulo Dybala",
+      "nationality": "ARG",
+      "club": "Juventus",
+      "clubCountry": "ITA",
+      "league": "Serie A",
+      "season": "2016/17",
+      "positions": [
+        "AM",
+        "ST"
+      ],
+      "ovr": 88,
+      "atk": 92,
+      "mid": 86,
+      "def": 30,
+      "designPurpose": "Valg mellem chanceskaber og angriber",
+      "sourceId": "juventus-2016"
+    },
+    {
+      "id": "higuain-juventus-2016",
+      "playerId": "higuain",
+      "name": "Gonzalo Higuaín",
+      "nationality": "ARG",
+      "club": "Juventus",
+      "clubCountry": "ITA",
+      "league": "Serie A",
+      "season": "2016/17",
+      "positions": [
+        "ST"
+      ],
+      "ovr": 89,
+      "atk": 94,
+      "mid": 67,
+      "def": 29,
+      "designPurpose": "Afslutningsspecialist",
+      "sourceId": "juventus-2016"
+    },
+    {
+      "id": "alisson-liverpool-2018",
+      "playerId": "alisson",
+      "name": "Alisson",
+      "nationality": "BRA",
+      "club": "Liverpool",
+      "clubCountry": "ENG",
+      "league": "Premier League",
+      "season": "2018/19",
+      "positions": [
+        "GK"
+      ],
+      "ovr": 89,
+      "atk": 9,
+      "mid": 68,
+      "def": 91,
+      "designPurpose": "Elitekeeper med stærk distribution",
+      "sourceId": "liverpool-2018"
+    },
+    {
+      "id": "van-dijk-liverpool-2018",
+      "playerId": "van-dijk",
+      "name": "Virgil van Dijk",
+      "nationality": "NED",
+      "club": "Liverpool",
+      "clubCountry": "ENG",
+      "league": "Premier League",
+      "season": "2018/19",
+      "positions": [
+        "CB"
+      ],
+      "ovr": 91,
+      "atk": 46,
+      "mid": 73,
+      "def": 95,
+      "designPurpose": "Forsvarets store samlemål",
+      "sourceId": "liverpool-2018"
+    },
+    {
+      "id": "robertson-liverpool-2018",
+      "playerId": "robertson",
+      "name": "Andrew Robertson",
+      "nationality": "SCO",
+      "club": "Liverpool",
+      "clubCountry": "ENG",
+      "league": "Premier League",
+      "season": "2018/19",
+      "positions": [
+        "LB"
+      ],
+      "ovr": 86,
+      "atk": 76,
+      "mid": 77,
+      "def": 85,
+      "designPurpose": "Offensiv venstreback",
+      "sourceId": "liverpool-2018"
+    },
+    {
+      "id": "alexander-arnold-liverpool-2018",
+      "playerId": "alexander-arnold",
+      "name": "Trent Alexander-Arnold",
+      "nationality": "ENG",
+      "club": "Liverpool",
+      "clubCountry": "ENG",
+      "league": "Premier League",
+      "season": "2018/19",
+      "positions": [
+        "RB"
+      ],
+      "ovr": 85,
+      "atk": 80,
+      "mid": 86,
+      "def": 73,
+      "designPurpose": "Kreativ back med defensiv afvejning",
+      "sourceId": "liverpool-2018"
+    },
+    {
+      "id": "salah-liverpool-2018",
+      "playerId": "salah",
+      "name": "Mohamed Salah",
+      "nationality": "EGY",
+      "club": "Liverpool",
+      "clubCountry": "ENG",
+      "league": "Premier League",
+      "season": "2018/19",
+      "positions": [
+        "RW",
+        "ST"
+      ],
+      "ovr": 92,
+      "atk": 97,
+      "mid": 82,
+      "def": 35,
+      "designPurpose": "Højeste OVR i puljen",
+      "sourceId": "liverpool-2018"
+    },
+    {
+      "id": "mane-liverpool-2018",
+      "playerId": "mane",
+      "name": "Sadio Mané",
+      "nationality": "SEN",
+      "club": "Liverpool",
+      "clubCountry": "ENG",
+      "league": "Premier League",
+      "season": "2018/19",
+      "positions": [
+        "LW",
+        "ST"
+      ],
+      "ovr": 90,
+      "atk": 94,
+      "mid": 78,
+      "def": 43,
+      "designPurpose": "Elitekort på kant eller i angreb",
+      "sourceId": "liverpool-2018"
+    },
+    {
+      "id": "firmino-liverpool-2018",
+      "playerId": "firmino",
+      "name": "Roberto Firmino",
+      "nationality": "BRA",
+      "club": "Liverpool",
+      "clubCountry": "ENG",
+      "league": "Premier League",
+      "season": "2018/19",
+      "positions": [
+        "ST",
+        "AM"
+      ],
+      "ovr": 87,
+      "atk": 85,
+      "mid": 88,
+      "def": 60,
+      "designPurpose": "Forbindelsesspiller frem for ren afslutter",
+      "sourceId": "liverpool-2018"
+    }
+  ],
+  "rules": {
+    "oneVersionPerPlayerInStartingXI": true,
+    "consumeCardsOnEntry": false,
+    "startingXISize": 11,
+    "benchCountsForEligibility": false,
+    "outOfPositionAllowed": false,
+    "slotAliases": {
+      "LM": "LW",
+      "RM": "RW"
+    },
+    "goalkeepersOnlyInGKSlot": true,
+    "ovrAddsMatchBonus": false
+  },
+  "formations": {
+    "4-3-3": [
+      "GK",
+      "RB",
+      "CB",
+      "CB",
+      "LB",
+      "DM",
+      "CM",
+      "CM",
+      "RW",
+      "ST",
+      "LW"
+    ],
+    "4-4-2": [
+      "GK",
+      "RB",
+      "CB",
+      "CB",
+      "LB",
+      "RM",
+      "CM",
+      "CM",
+      "LM",
+      "ST",
+      "ST"
+    ],
+    "4-2-3-1": [
+      "GK",
+      "RB",
+      "CB",
+      "CB",
+      "LB",
+      "DM",
+      "DM",
+      "RW",
+      "AM",
+      "LW",
+      "ST"
+    ]
+  },
+  "initialCollection": [
+    "cillessen-ajax-2012",
+    "clyne-southampton-2013",
+    "alderweireld-ajax-2012",
+    "fonte-southampton-2013",
+    "blind-ajax-2012",
+    "wanyama-southampton-2013",
+    "schone-ajax-2012",
+    "de-jong-ajax-2012",
+    "salah-basel-2012",
+    "lambert-southampton-2013",
+    "fischer-ajax-2012",
+    "boruc-southampton-2013",
+    "veltman-ajax-2012",
+    "elneny-basel-2012",
+    "florenzi-roma-2015",
+    "digne-roma-2015"
+  ],
+  "squadExamples": [
+    {
+      "name": "Start: 4-3-3",
+      "formation": "4-3-3",
+      "challengeId": "open-league",
+      "lineup": [
+        {
+          "slot": "GK",
+          "cardId": "cillessen-ajax-2012"
+        },
+        {
+          "slot": "RB",
+          "cardId": "clyne-southampton-2013"
+        },
+        {
+          "slot": "CB",
+          "cardId": "alderweireld-ajax-2012"
+        },
+        {
+          "slot": "CB",
+          "cardId": "fonte-southampton-2013"
+        },
+        {
+          "slot": "LB",
+          "cardId": "blind-ajax-2012"
+        },
+        {
+          "slot": "DM",
+          "cardId": "wanyama-southampton-2013"
+        },
+        {
+          "slot": "CM",
+          "cardId": "schone-ajax-2012"
+        },
+        {
+          "slot": "CM",
+          "cardId": "de-jong-ajax-2012"
+        },
+        {
+          "slot": "RW",
+          "cardId": "salah-basel-2012"
+        },
+        {
+          "slot": "ST",
+          "cardId": "lambert-southampton-2013"
+        },
+        {
+          "slot": "LW",
+          "cardId": "fischer-ajax-2012"
+        }
+      ]
+    },
+    {
+      "name": "Start: 4-4-2",
+      "formation": "4-4-2",
+      "challengeId": "open-league",
+      "lineup": [
+        {
+          "slot": "GK",
+          "cardId": "cillessen-ajax-2012"
+        },
+        {
+          "slot": "RB",
+          "cardId": "clyne-southampton-2013"
+        },
+        {
+          "slot": "CB",
+          "cardId": "alderweireld-ajax-2012"
+        },
+        {
+          "slot": "CB",
+          "cardId": "fonte-southampton-2013"
+        },
+        {
+          "slot": "LB",
+          "cardId": "blind-ajax-2012"
+        },
+        {
+          "slot": "RM",
+          "cardId": "salah-basel-2012"
+        },
+        {
+          "slot": "CM",
+          "cardId": "wanyama-southampton-2013"
+        },
+        {
+          "slot": "CM",
+          "cardId": "schone-ajax-2012"
+        },
+        {
+          "slot": "LM",
+          "cardId": "fischer-ajax-2012"
+        },
+        {
+          "slot": "ST",
+          "cardId": "lambert-southampton-2013"
+        },
+        {
+          "slot": "ST",
+          "cardId": "de-jong-ajax-2012"
+        }
+      ]
+    },
+    {
+      "name": "Start: 4-2-3-1",
+      "formation": "4-2-3-1",
+      "challengeId": "open-league",
+      "lineup": [
+        {
+          "slot": "GK",
+          "cardId": "cillessen-ajax-2012"
+        },
+        {
+          "slot": "RB",
+          "cardId": "clyne-southampton-2013"
+        },
+        {
+          "slot": "CB",
+          "cardId": "alderweireld-ajax-2012"
+        },
+        {
+          "slot": "CB",
+          "cardId": "fonte-southampton-2013"
+        },
+        {
+          "slot": "LB",
+          "cardId": "blind-ajax-2012"
+        },
+        {
+          "slot": "DM",
+          "cardId": "wanyama-southampton-2013"
+        },
+        {
+          "slot": "DM",
+          "cardId": "elneny-basel-2012"
+        },
+        {
+          "slot": "RW",
+          "cardId": "salah-basel-2012"
+        },
+        {
+          "slot": "AM",
+          "cardId": "de-jong-ajax-2012"
+        },
+        {
+          "slot": "LW",
+          "cardId": "fischer-ajax-2012"
+        },
+        {
+          "slot": "ST",
+          "cardId": "lambert-southampton-2013"
+        }
+      ]
+    },
+    {
+      "name": "Italy: garanteret efter fire sæsoner",
+      "formation": "4-3-3",
+      "challengeId": "italy-six",
+      "lineup": [
+        {
+          "slot": "GK",
+          "cardId": "szczesny-roma-2015"
+        },
+        {
+          "slot": "RB",
+          "cardId": "florenzi-roma-2015"
+        },
+        {
+          "slot": "CB",
+          "cardId": "manolas-roma-2015"
+        },
+        {
+          "slot": "CB",
+          "cardId": "fonte-southampton-2013"
+        },
+        {
+          "slot": "LB",
+          "cardId": "digne-roma-2015"
+        },
+        {
+          "slot": "DM",
+          "cardId": "de-rossi-roma-2015"
+        },
+        {
+          "slot": "CM",
+          "cardId": "pjanic-roma-2015"
+        },
+        {
+          "slot": "CM",
+          "cardId": "schone-ajax-2012"
+        },
+        {
+          "slot": "RW",
+          "cardId": "salah-basel-2012"
+        },
+        {
+          "slot": "ST",
+          "cardId": "lambert-southampton-2013"
+        },
+        {
+          "slot": "LW",
+          "cardId": "fischer-ajax-2012"
+        }
+      ]
+    },
+    {
+      "name": "Italy: Roma-Salah frigør en plads til Eriksen",
+      "formation": "4-4-2",
+      "challengeId": "italy-six",
+      "lineup": [
+        {
+          "slot": "GK",
+          "cardId": "szczesny-roma-2015"
+        },
+        {
+          "slot": "RB",
+          "cardId": "florenzi-roma-2015"
+        },
+        {
+          "slot": "CB",
+          "cardId": "manolas-roma-2015"
+        },
+        {
+          "slot": "CB",
+          "cardId": "fonte-southampton-2013"
+        },
+        {
+          "slot": "LB",
+          "cardId": "digne-roma-2015"
+        },
+        {
+          "slot": "RM",
+          "cardId": "salah-roma-2015"
+        },
+        {
+          "slot": "CM",
+          "cardId": "pjanic-roma-2015"
+        },
+        {
+          "slot": "CM",
+          "cardId": "eriksen-ajax-2012"
+        },
+        {
+          "slot": "LM",
+          "cardId": "fischer-ajax-2012"
+        },
+        {
+          "slot": "ST",
+          "cardId": "lambert-southampton-2013"
+        },
+        {
+          "slot": "ST",
+          "cardId": "de-jong-ajax-2012"
+        }
+      ]
+    }
+  ],
+  "challenges": [
+    {
+      "id": "open-league",
+      "name": "Open League",
+      "entryRequirements": [],
+      "visibleFromStart": true,
+      "teamCount": 20,
+      "aiTeamCount": 19,
+      "matchesPerTeam": 38,
+      "completion": {
+        "maxFinalRank": 1
+      },
+      "medals": [
+        {
+          "name": "Bronze",
+          "maxFinalRank": 10
+        },
+        {
+          "name": "Silver",
+          "maxFinalRank": 4
+        },
+        {
+          "name": "Gold",
+          "maxFinalRank": 1
+        }
+      ],
+      "optionalMastery": {
+        "maxFinalRank": 1,
+        "maxMeanStartingOvr": 80
+      },
+      "opponentOvrDesignRange": [
+        73,
+        80
+      ]
+    },
+    {
+      "id": "italy-six",
+      "name": "Italy Challenge",
+      "visibleFromStart": true,
+      "entryRequirements": [
+        {
+          "scope": "startingXI",
+          "field": "clubCountry",
+          "equals": "ITA",
+          "minCount": 6
+        }
+      ],
+      "teamCount": 20,
+      "aiTeamCount": 19,
+      "matchesPerTeam": 38,
+      "completion": {
+        "maxFinalRank": 1
+      },
+      "medals": [
+        {
+          "name": "Bronze",
+          "maxFinalRank": 10
+        },
+        {
+          "name": "Silver",
+          "maxFinalRank": 4
+        },
+        {
+          "name": "Gold",
+          "maxFinalRank": 1
+        }
+      ],
+      "optionalMastery": {
+        "maxFinalRank": 1,
+        "minItalianClubCards": 8
+      },
+      "opponentOvrDesignRange": [
+        78,
+        85
+      ]
+    }
+  ],
+  "onboardingMilestones": [
+    {
+      "completedOpenSeasons": 1,
+      "cardId": "szczesny-roma-2015"
+    },
+    {
+      "completedOpenSeasons": 2,
+      "cardId": "manolas-roma-2015"
+    },
+    {
+      "completedOpenSeasons": 3,
+      "cardId": "de-rossi-roma-2015"
+    },
+    {
+      "completedOpenSeasons": 4,
+      "cardId": "pjanic-roma-2015"
+    }
+  ]
+}
