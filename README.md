@@ -39,6 +39,16 @@ Dette er en første spilbar prototype. Langsigtet økonomi, reputation, facilite
 
 ## Udvikling og kontrol
 
+### Vercel
+
+Spillet deployes som statiske filer. `vercel.json` i repositoryets rod bruger `game/dist`; konfigurationen i `game/vercel.json` bruger `dist`, hvis Vercels Root Directory er sat til `game`. Begge vælger Framework Preset **Other** og springer installation og build over, fordi de færdige HTML-, CSS-, JS- og JSON-filer allerede ligger i Git.
+
+`game/server.mjs` er kun en lokal udviklingsserver og skal ikke køres som en Vercel Function. Efter ændringer i `data/prototype-content.json` køres `npm --prefix game run build` lokalt, og den opdaterede `game/dist/data.json` committes sammen med kildedataene.
+
+Vercel genudgiver automatisk ved push til `main`, når GitHub-integrationen er tilkoblet. Lagring er stadig lokal i browseren og adskilt mellem localhost og Vercel-adressen.
+
+### Lokale kommandoer
+
 ```powershell
 npm --prefix game test
 npm --prefix game run balance
